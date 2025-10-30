@@ -6,3 +6,5 @@ console.log(login)
 
 const footer = "Footer is added"
 console.log(footer)
+const payment = "Integereted payment "
+console.log(payment)
